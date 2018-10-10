@@ -1,8 +1,9 @@
 ---
-title: Code in an Ordered List
+title: Code in an Ordered List - Working New
 date: "2018-10-09T22:12:03.284Z"
 ---
 
+#New Code
 Demonstrate a gatsby bug when there is a code block in an ordered list.
 
 
